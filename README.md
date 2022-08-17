@@ -29,7 +29,7 @@
             <div class="row">
                 <div class="col-md-5 px-1" width="100%">
                     <img src="Images/BoggleGameCode.png" alt="Boggle Game Code" Code class="border img-fluid" width="100%">
-                    <p style="color:white">Selling the stock you own</p>
+                    <p style="color:white">Some of the functionality</p>
                 </div>
                 <div class="col-md-5 px-1">
                     <img src="Images/BoggleGameCode1.png" alt="Boggle Game Code" class="border img-fluid" width="100%">
